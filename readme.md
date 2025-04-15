@@ -21,15 +21,15 @@
 
 ### Задание 1
 
-[Частота символов](https://github.com/netology-code/cppl-homeworks/tree/main/07/01).
+[Частота символов](01).
 
 ### Задание 2
 
-[Удаление дубликатов](https://github.com/netology-code/cppl-homeworks/tree/main/07/02).
+[Удаление дубликатов](02).
 
 ### Задание 3*
 
-[Аналог std::vector](https://github.com/netology-code/cppl-homeworks/tree/main/07/03).
+[Аналог std::vector](03).
 
 ------
 
